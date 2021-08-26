@@ -1,0 +1,21 @@
+.flexCol {
+    background: rgba(0, 0, 0, 1);
+}
+
+.flexCol--home {
+    background-color: transparent;
+}
+
+
+.flexRow--stats-container {
+    padding-top: 1rem;
+    margin-left: 5%;
+}
+
+.flexCol--stats {
+    background-color: transparent;
+}
+
+.flexRow--footer {
+    background-color: #000000;
+}

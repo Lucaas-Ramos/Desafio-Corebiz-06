@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+
+.wrapper {
+    background: rgba(0, 0, 0, 1);
+}
+
+.wrapper--contact{
+    padding-right: 40px;
+}
+
+.wrapper--title {
+    background-color: transparent;
+    max-width: 25rem;
+    margin-left: 5%;
+    font-size: 8vw;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    text-transform: lowercase;
+    line-height: 0.8;
+}
+
+.paragraph--title {
+    line-height: 0.8;
+}
+
+
+.wrapper--subtitle {
+    background-color: transparent;
+    max-width: 25rem;
+    margin-left: 5%;
+    font-size: 2vw;
+    color: #ffffff;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+}
+
+.paragraph--subtitle {
+    line-height: 1.2;
+    margin: 0;
+}
+
+
+.wrapper--stats {
+    background-color: transparent;
+}
+
+.paragraph--stats {
+    font-weight: 400;
+    font-family: 'Manrope', sans-serif;
+    color: #f1c233;
+    margin: 0;
+    font-size: 1.3rem;
+}
+
+.wrapper--stats-description {
+    background-color: transparent;
+}
+
+.paragraph--stats-description {
+    margin: 0;
+    font-family: 'Manrope', sans-serif;
+    color: #ccc;
+    font-size: 0.8rem;
+    letter-spacing: 0.02rem;
+}
+
+.link {
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+    padding-right: 50px;
+}
+
