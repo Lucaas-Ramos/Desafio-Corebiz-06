@@ -79,8 +79,7 @@
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "text": "[contato](/)", 
-      "font": "t-heading-5",
-      "blockClass": "contact"
+      "font": "t-heading-5"
     }
   },
 
@@ -89,8 +88,7 @@
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "text": "[blog](/)",
-      "font": "t-heading-5",
-      "blockClass": "blog"
+      "font": "t-heading-5"
     }
   },
 
